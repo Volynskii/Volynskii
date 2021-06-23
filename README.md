@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design.
-- - ✍️ &nbsp; Plan to develeo learn more things about Front-end and Back-end.
+- - ✍️ &nbsp; Plan to learn more things about Front-end and Back-end.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
