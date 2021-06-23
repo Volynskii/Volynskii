@@ -46,8 +46,8 @@
 </p>
 
 <p align="center">
-<a href="https://antonwolynski.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://antonwolynski.com/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/feed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anton%20Wolynski-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://antonwolynski.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://antonwolynski.com/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/feed/" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anton%20Wolynski-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
