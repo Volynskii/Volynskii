@@ -40,7 +40,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://antonwolynski.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://antonwolynski.com/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/feed/" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anton%20Wolynski-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:antonvolynskii@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-antonvolynskii@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
